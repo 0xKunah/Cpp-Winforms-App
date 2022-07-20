@@ -1,8 +1,5 @@
 #pragma once
 
-// uncomment to execute the rk1-utils:
-//    #include "rk1_Utils_demo.h"  // shows how the rk1-utils can be used
-
 namespace CppWinformsApp {
 
   using namespace System;
